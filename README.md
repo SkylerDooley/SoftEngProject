@@ -1,3 +1,9 @@
+WPI CS3733 B Term 2024 Project
+Submitted 12/13/2024
+
+Important note: All of the pages opperate as intended except for admin/availability page due to the group not being able to complete the task in the given timeframe. 
+The requirements and description can be found in the projectDescription folder
+
 Admin Login Credentials:
     Username: admin
     Password: password
