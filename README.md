@@ -11,6 +11,7 @@ After this project was graded, the AWS resources that we used were removed to pr
 A short video of the implementation is linked in the projectDescription.zip folder to display the working application before it was removed from AWS.
 
 The URL linked to this project is to the AWS hosted site which will no longer work once the resources are removed.
+https://psiren-tables4u.s3.us-east-2.amazonaws.com/psiren-tables4u/index.html 
 
 
 ----------------------------------------------------
