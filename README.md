@@ -10,6 +10,8 @@ This project was hosted on AWS using S3 Bucket, Lamabda Functions, RDS, and an A
 After this project was graded, the AWS resources that we used were removed to prevent the linked accounts from getting charged in the future. 
 A short video of the implementation is linked in the projectDescription.zip folder to display the working application before it was removed from AWS.
 
+The URL linked to this project is to the AWS hosted site which will no longer work once the resources are removed.
+
 
 ----------------------------------------------------
 Notes for Users:
