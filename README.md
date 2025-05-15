@@ -4,7 +4,7 @@ Submitted 12/13/2024
 Important note: All of the pages opperate as intended except for admin/availability page due to the group not being able to complete the task in the given timeframe. 
 The requirements and description can be found in the projectDescription.zip folder
 
-Check group report for a more detailed breakdown of how the system works (located inside of the projectDescription folder)
+Check group report pdf file for a more detailed breakdown of how the system works
 
 This project was hosted on AWS using S3 Bucket, Lamabda Functions, RDS, and an API Gateway.
 After this project was graded, the AWS resources that we used were removed to prevent the linked accounts from getting charged in the future. 
